@@ -1,6 +1,6 @@
 # My Portfolio Site
 
-Welcome to my portfolio site! This repository hosts the code for my personal portfolio website. You can visit the live site [here](https://miernika.github.io/about-me/).
+Welcome to my portfolio site! This repository hosts the code for my personal portfolio website. You can visit the live site [here](https://portfolio-page-ochre-three.vercel.app).
 
 ## Technologies Used
 
